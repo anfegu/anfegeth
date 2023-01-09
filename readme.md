@@ -83,6 +83,17 @@ Or, you can specify the name of a specific test or test module to run a subset o
 
     cargo test my_module
 
+## Documentation
+
+To generate documentation for this project, use the `cargo doc` command:
+
+    cargo doc
+
+This will generate documentation for all the crates in the project and create an HTML file that can be viewed in a web browser. The documentation will be available in the `target/doc` directory.
+
+You can also use the `--open` flag to automatically open the documentation in your default web browser:
+
+    cargo doc --open
 
 ## Additional Resources
 
