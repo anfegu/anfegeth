@@ -13,12 +13,12 @@ This Rust project demonstrates how to perform a handshake with a P2P local node 
 2. Install `coregeth` by following the instructions on the [Geth website](https://geth.ethereum.org/docs/install-and-build/installing-geth). Or the next:
 
 ***************************************************************************
-## Prerequisites
+### Prerequisites
 
 - Go 1.16 or higher
 - `go-ethereum` v1.10.26 or higher
 
-## Getting Started
+### Getting Started
 
 1. Download and install Go from the [Go website](https://golang.org/dl/).
 2. Install `go-ethereum` version `v1.10.26`:
@@ -48,7 +48,7 @@ This Rust project demonstrates how to perform a handshake with a P2P local node 
 
         ./geth --http --network=my-network-id
 
-## NETWORKS LIST AVAILABLES:
+### NETWORKS LIST AVAILABLES:
 - "id": "1", "name": "Mainnet"
 - "id": "3", "name": "Ropsten"
 - "id": "4", "name": "Rinkeby"
