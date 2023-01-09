@@ -24,11 +24,13 @@ This Rust project demonstrates how to perform a handshake with a P2P local node 
 2. Install `go-ethereum` version `v1.10.26`:
 
 go get -u github.com/ethereum/go-ethereum@v1.10.26
+
+unzip and follow the usual Linux: place it in the preferred directory (e.g usr/local/) and continue.
 ***************************************************************************
 
 3. Clone this repository:
 
-git clone https://github.com/your-username/anfegeth-p2p-handshake.git
+git clone https://github.com/anfegu/anfegeth
 
 4. Navigate to the root directory of the project and install the dependencies:
 
