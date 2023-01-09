@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "Mainnet"
+    },
+    {
+        "id": "3",
+        "name": "Ropsten"
+    },
+    {
+        "id": "4",
+        "name": "Rinkeby"
+    },
+    {
+        "id": "5",
+        "name": "Goerli"
+    },
+    {
+        "id": "1337802",
+        "name": "Kiln"
+    },
+    {
+        "id": "11155111",
+        "name": "Sepolia"
+    }
+]
